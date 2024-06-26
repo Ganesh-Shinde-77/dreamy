@@ -1,0 +1,209 @@
+﻿@model WebApplicationn.Models.Products
+
+
+@{
+    ViewBag.Title = "dreamy │ " + Model.productName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["PageId2"] = Model.productName;
+}
+
+@* <style>
+    body {
+        background-color: #635ef7;
+        margin: 0px;
+    }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+ *@
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebApplicationn.styles.css" asp-append-version="true" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    <script src="~/js/site.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha384-BY+fdrpOd3gfeRvTSMT+VUZmA728cfF9Z2G42xpaRkUGu2i3DyzpTURDo5A6CaLK" crossorigin="anonymous">
+
+
+
+    <style>
+        @@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+        body {
+            font-family: 'Oswald', sans-serif !important;
+            background-color: #635ef7;
+            margin-bottom: 0px !important;
+        }
+
+        /*carousel css code start*/
+
+        /*carousel css code end*/
+
+
+        .btn-primary {
+            color: white;
+            background: transparent;
+            transition: all 0.3s ease 0s;
+            background: #635EF7;
+        }
+
+            .btn-primary:hover {
+                color: black;
+                background: white;
+                border: 2px solid #635EF7;
+            }
+
+        .mt-50 {
+            margin-top: 50px;
+        }
+
+        .mb-50 {
+            margin-bottom: 50px;
+        }
+
+
+        .bg-teal-400 {
+            background-color: #26a69a;
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+
+        .fa {
+            color: red;
+        }
+
+        .card {
+            border-radius: 30px;
+            box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.6);
+            padding: 40px;
+        }
+    </style>
+
+</head>
+
+
+<body>
+    <h5 style="color:white; margin-top:25vh; margin-bottom:4vh;">DISCOVER MORE&emsp;>>> &emsp; <a href="/home/allproducts#furniture" style="color:white">FURNITURE</a> &emsp; │ &emsp; <a href="/home/allproducts#accessories" style="color:white">ACCESSORIES</a> &emsp; │ &emsp; <a href="/home/allproducts#lightings" style="color:white"> LIGHTINGS</a> </h5>
+    
+    <div class="container" style="background-color:white; padding-top:5vh; color:black; border-radius:40px; box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.6); ">
+      
+        <div class="row d-flex justify-content-center">
+
+            <div class="col-md-6">
+
+                <!-- product image carousel-->
+                <div id="carouselExampleIndicators" class="carousel slide mb-4" data-bs-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
+                        <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                        <div class="carousel-item active">
+                            <a href="/account/redirectunknown?url=/qr/all" class="text-decoration-none">
+                                @{
+                                    //"~/images/minimalrosearmchair1.jpg"
+                                    string srcString1 = "/images/" + Model.productName + "1.png";
+                                }
+                                <img class="d-block img-fluid p-1 w-100" src=@srcString1 alt="First slide" style="justify-content:center; text-align:center; height:100%; width:100%; border-radius: 30px;">
+                            </a>
+                        </div>
+                        <div class="carousel-item">
+                            <a href="/account/redirectunknown?url=/my/timesheethours" class="text-decoration-none">
+                                @{
+                                    //string srcString2 = "/images/minimalrosearmchair2.jpg";
+                                    string srcString2 = "/images/" + Model.productName + "2.png";
+                                }
+                                <img class="d-block img-fluid p-1 w-100" src=@srcString2 alt="Second slide" style="justify-content:center; text-align:center; height:100%; width:100%; border-radius: 30px;">
+                            </a>
+                        </div>
+                        <div class="carousel-item">
+                            @{
+                                //"~/images/minimalrosearmchair3.jpg"
+                                string srcString3 = "/images/" + Model.productName + "3.png";
+                            }
+                            <img class="d-block img-fluid p-1 w-100" src=@srcString3 alt="Third slide" style="justify-content:center; text-align:center; height:100%; width:100%; border-radius: 30px;">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev" style="color:black">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next" style="color:black">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                @{
+                    var pdtName = Model.productName;
+                }
+                @{
+                    pdtName = string.Concat(pdtName.Select(x => Char.IsUpper(x) ? " " + x : x.ToString())).TrimStart(' '); //to add a space before each first capital letter and then making all the letters as capital
+                    string upperPdtName = pdtName.ToUpper();
+                }
+                <h4><b>@upperPdtName</b></h4>
+                <h6 style="margin-bottom: 7vh;">by Zara</h6>
+                <p style="margin-bottom: 8vh;">@Model.description</p>
+                <div class="d-inline-block">
+
+                    @for (int i = 0; i < Model.stars; i++)
+                    {
+
+                        <i class="fa fa-star"></i>
+                    }
+                </div>
+                <h6 style="display:inline; ">
+                    Rated @Model.stars &emsp; <span> <img src="~/images/comments.png" style="height:20px; width:20px" /> </span> 1985 Reviews
+                </h6>
+                <div class="row"  style="margin-top:3vh; margin-bottom:3vh;">
+                    <div class="col-md-12">
+                        <h2> <b>₹ @Model.price</b> <span style="font-size:15px;">(Price incl. of all taxes)</span></h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h7><span> <img src="~/images/secure.png" style="height:35px; width:35px" /> </span> Secure Payment</h7>
+                    </div>
+                    <div class="col-md-4">
+                        <h7><span> <img src="~/images/cod.png" style="height:40px; width:40px" /> </span> Pay on Delivery</h7>
+                    </div>
+                    <div class="col-md-4">
+                        <h7><span> <img src="~/images/dreamydelivered.png" style="height:35px; width:30px" /> </span> Dreamy Delivered</h7>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h7><span> <img src="~/images/delivery-truck_318-292028.png" style="height:40px; width:40px" /> </span> Quick Shipping</h7>
+                    </div>
+                    <div class="col-md-4">
+                        <h7><span> <img src="~/images/free returns.png" style="height:35px; width:30px" /> </span> Free Returns</h7>
+                    </div>
+                    <div class="col-md-4">
+                    </div>
+                </div>
+                
+                <p style="color:darkorange; margin-top:2vh; margin-bottom:5vh;"><span> <img src="~/images/clock.png" style="height:20px; width:20px;" /> </span> LIMITED STOCK LEFT ! </p>
+               
+                @{
+                    string directToLink = "/home/addproduct?productNo=" + Model.productNo + "&price=" + Model.price + "&quantity=1&productName=" + Model.productName + "&category=" + Model.category;
+                }
+                <a href=@directToLink>
+                    <button class="rounded-pill btn-primary" style="width:90%; height:10%;  font-size: 20px;"> <img src="~/images/addtocart.png" style="height:25px; width:25px;" /> </span> Add to Cart  • ₹@Model.price </button>
+                </a>
+
+            </div>
+        </div>
+    </div>
+</body>

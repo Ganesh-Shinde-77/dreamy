@@ -1,0 +1,197 @@
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\appsettings.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.staticwebassets.runtime.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.exe
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.deps.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.runtimeconfig.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.pdb
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.AssemblyReference.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfoInputs.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfo.cs
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.CoreCompileInputs.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cs
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationn.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\bundle\WebApplicationn.styles.css
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationn.bundle.scp.css
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\refint\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.pdb
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.genruntimeconfig.cache
+C:\Users\geedh\source\repos\WebApplicationn\WebApplicationn\obj\Debug\net6.0\ref\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\appsettings.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.staticwebassets.runtime.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.exe
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.deps.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.runtimeconfig.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\WebApplicationn.pdb
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.AssemblyReference.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfoInputs.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfo.cs
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.CoreCompileInputs.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cs
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationn.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationn.props
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\scopedcss\bundle\WebApplicationn.styles.css
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationn.bundle.scp.css
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\refint\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.pdb
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.genruntimeconfig.cache
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\ref\WebApplicationn.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.CopyComplete
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\MySqlConnector.DependencyInjection.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.forms.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.io.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.layout.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.pdfua.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.sign.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.svg.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.commons.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itextsharp.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.html2pdf.dll
+C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\bin\Debug\net6.0\itext.bouncy-castle-adapter.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\appsettings.json
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.staticwebassets.runtime.json
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.exe
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.deps.json
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.runtimeconfig.json
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\WebApplicationn.pdb
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.barcodes.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.forms.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.io.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.kernel.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.layout.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.pdfa.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.pdfua.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.sign.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.svg.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.bouncy-castle-adapter.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.commons.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itext.html2pdf.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\itextsharp.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\MySql.Data.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\MySqlConnector.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\MySqlConnector.DependencyInjection.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\ZstdSharp.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.AssemblyReference.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfoInputs.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.AssemblyInfo.cs
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.csproj.CoreCompileInputs.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.RazorAssemblyInfo.cs
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationn.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationn.props
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationn.props
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationn.props
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\bundle\WebApplicationn.styles.css
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationn.bundle.scp.css
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\refint\WebApplicationn.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.pdb
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebApplicationn.genruntimeconfig.cache
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\ref\WebApplicationn.dll
+D:\Projects_all\WebApplicationn\WebApplicationn\obj\Debug\net6.0\WebAppli.A245B996.Up2Date
